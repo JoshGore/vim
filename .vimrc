@@ -20,8 +20,6 @@ Plugin 'VundleVim/Vundle.vim'
 
 " Utilities
 Plugin 'scrooloose/nerdtree'
-Plugin 'evandew/supertab'
-Plugin 'posva/vim-vue'
 Plugin 'ctrlpvim/ctrlp.vim'
 
 " Themes
