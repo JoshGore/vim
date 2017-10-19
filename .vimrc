@@ -62,7 +62,3 @@ inoremap <left> <nop>
 inoremap <right> <nop>
 set autoread
 set wildmenu
-colorscheme desert
-set background=dark
-execute pathogen#infect()
-call pathogen#helptags()
